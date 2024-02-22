@@ -21,9 +21,9 @@ Hashtag Research:
 Ad Campaign Launch:
 
 5. Task: Determine the optimal day of the week for ad campaign launches by analyzing user registration patterns.
-B) Investor Metrics:
 
-User Engagement:
+B) Investor Metrics:
+  User Engagement:
 
 6. Task: Calculate the average number of posts per user and provide the total photos-to-users ratio, offering insights into overall user engagement.
 Bots & Fake Accounts:
